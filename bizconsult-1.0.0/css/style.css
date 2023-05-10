@@ -3113,7 +3113,7 @@ latest-blog-area .area-heading {
 
 .single-process {
     padding: 44px 28px;
-    background: #e5e6e9
+    background: #e5e6e95f;
 }
 
 @media (max-width: 767px) {
@@ -3135,20 +3135,22 @@ latest-blog-area .area-heading {
 .apply-process-area .single-process .process-ion span {
     font-size: 60px;
     margin-bottom: 13px;
-    color: #fff;
+    color: #0e0202;
     margin-bottom: 20px
 }
 
 .apply-process-area .single-process .process-cap h5 {
     font-weight: 700;
     font-size: 24px;
-    color: #fff;
+    color: #1b83bf;
     line-height: 1.4;
     margin-bottom: 20px
 }
 
 .apply-process-area .single-process .process-cap p {
-    color: #a5aaca
+    color: #0e0202;
 }
 
-#more {display: none;}
+#more {
+    display: none;
+}

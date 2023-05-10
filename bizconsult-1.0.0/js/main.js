@@ -47,6 +47,7 @@
         center: true,
         dots: false,
         loop: true,
+        rtl:true,
         nav : true,
         navText : [
             '<i class="bi bi-chevron-left"></i>',
@@ -76,6 +77,7 @@
         margin: 90,
         dots: false,
         loop: true,
+        rtl:true,
         nav : false,
         responsive: {
             0:{
